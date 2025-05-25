@@ -1,5 +1,28 @@
 # Plan de Estudio: Full-Stack Product Builder (6 meses)
 
+## 📋 Resumen del Curso
+
+**Objetivo**: Formar un perfil híbrido capaz de diseñar UX con IA, entender necesidades de producto como Product Owner, y construir MVPs funcionales con Node.js. En 6 meses de trabajo intensivo, el estudiante podrá trabajar como freelancer junior en Europa y América.
+
+**Perfil de entrada**: Persona muy inteligente sin experiencia en diseño, con disponibilidad tiempo completo.
+
+**Perfil de salida**: Full-Stack Product Builder que puede:
+- Diseñar interfaces profesionales usando Figma + IA
+- Hacer research de usuarios y definir productos
+- Desarrollar aplicaciones completas (frontend + backend)
+- Cobrar €500-1000 por proyecto como freelancer junior
+
+**Metodología**: 
+- Mañanas: Desarrollo/Código (The Odin Project + freeCodeCamp)
+- Tardes: UX/Producto/Proyectos reales
+- Noches: Lectura (mindset freelance + técnica)
+
+**Stack tecnológico**: HTML/CSS/JavaScript → Node.js/Express/MongoDB → React → IA integration
+
+**Filosofía**: Aprender haciendo. Cada semana produce algo tangible para el portfolio.
+
+---
+
 ## 🎯 Objetivo Final
 En 6 meses serás capaz de:
 - Diseñar productos digitales con UX profesional
@@ -15,6 +38,154 @@ En 6 meses serás capaz de:
 5. [Mes 5-6: React y Freelance](#mes-5-6-react-y-freelance)
 6. [Rutina Diaria](#rutina-diaria)
 7. [Proyectos del Portfolio](#proyectos-del-portfolio)
+
+## 📺 Videos Opcionales por Semana
+
+### **Semanas 1-2: Fundamentos**
+**Desarrollo (The Odin Project extras):**
+- [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk) - freeCodeCamp (1 hora)
+- [HTML Full Course](https://www.youtube.com/watch?v=pQN-pnXPaVg) - freeCodeCamp (2 horas)
+- [CSS Tutorial - Zero to Hero](https://www.youtube.com/watch?v=1Rs2ND1ryYc) - freeCodeCamp (6 horas)
+
+**Diseño/UX extras:**
+- [UI Design Principles](https://www.youtube.com/watch?v=_Hp_dI0DzY4) - DesignCourse (40 min)
+- [Color Theory](https://www.youtube.com/watch?v=_2LLXnUdUIc) - The Futur (15 min)
+- [Typography Basics](https://www.youtube.com/watch?v=sByzHoiYFX0) - The Futur (20 min)
+
+**Figma Avanzado:**
+- [Figma Plugins for Beginners](https://www.youtube.com/watch?v=BXqC4WXqf4I) - Figma (10 min)
+- [Figma Shortcuts](https://www.youtube.com/watch?v=Dbz2UC5Lhg0) - DesignCourse (15 min)
+- [Figma for Developers](https://www.youtube.com/watch?v=RYDiDpW2VkM) - freeCodeCamp (1 hora)
+
+**UX Research extras:**
+- [UX Research 101](https://www.youtube.com/watch?v=tkBuW8-p9MQ) - CareerFoundry (20 min)
+- [Design Thinking Process](https://www.youtube.com/watch?v=_r0VX-aU_T8) - AJ&Smart (15 min)
+- [Empathy Maps](https://www.youtube.com/watch?v=QwF9a56WFWA) - NNGroup (5 min)
+
+### **Semanas 3-4: CSS Avanzado + JavaScript**
+**Desarrollo:**
+- [Flexbox in 100 Seconds](https://www.youtube.com/watch?v=K74l26pE4YA) - Fireship (2 min)
+- [CSS Grid in 100 Seconds](https://www.youtube.com/watch?v=uuOXPWCh-6o) - Fireship (2 min)
+- [JavaScript Crash Course](https://www.youtube.com/watch?v=hdI2bqOjy3c) - Traversy Media (2 horas)
+
+**Product/Business:**
+- [How to Price Design Work](https://www.youtube.com/watch?v=RKXZ7t_RiOE) - The Futur (1 hora)
+- [Freelancing 101](https://www.youtube.com/watch?v=68Li7ukgDKg) - DesignCourse (30 min)
+
+**Figma Workflow:**
+- [Figma Design System](https://www.youtube.com/watch?v=Dtd40cHQQlk&list=PLXDU_eVOJTx6zk5MDarIs0asNoZqlRG23) - Figma Playlist (6 videos)
+- [Responsive Design in Figma](https://www.youtube.com/watch?v=_6-mfPQ0TsU) - DesignCourse (20 min)
+- [Figma Grids & Layouts](https://www.youtube.com/watch?v=7GQZK3rF9DI) - Figma (15 min)
+
+**UX Process:**
+- [Information Architecture](https://www.youtube.com/watch?v=SWaJdAYG3Uc) - UX Mastery (10 min)
+- [Wireframing Basics](https://www.youtube.com/watch?v=MwidSAlbEB8) - AJ&Smart (20 min)
+- [Low vs High Fidelity](https://www.youtube.com/watch?v=KnZrypOaVCg) - The Futur (15 min)
+
+### **Semanas 5-8: JavaScript DOM + Proyectos**
+**Desarrollo:**
+- [DOM Manipulation](https://www.youtube.com/watch?v=y17RuWkWdn8) - Web Dev Simplified (35 min)
+- [JavaScript Array Methods](https://www.youtube.com/watch?v=R8rmfD9Y5-c) - Web Dev Simplified (30 min)
+- [Async JavaScript Crash Course](https://www.youtube.com/watch?v=_8gHHBlbziw) - Traversy Media (25 min)
+
+**UX/Testing:**
+- [Design Critique](https://www.youtube.com/watch?v=M1qm-AWWl3M) - AJ&Smart (15 min)
+- [5 Psychology Principles for Designers](https://www.youtube.com/watch?v=1nHsnz_lMxk) - The Futur (20 min)
+
+**Figma Prototyping:**
+- [Advanced Prototyping](https://www.youtube.com/watch?v=iBkXf6u8Mzc) - Figma (30 min)
+- [Interactive Components](https://www.youtube.com/watch?v=k74l26pE4YA) - Figma (20 min)
+- [Figma Variables](https://www.youtube.com/watch?v=cy_lYqBQ3WI) - Figma (25 min)
+
+**UX Research Profundo:**
+- [Affinity Mapping](https://www.youtube.com/watch?v=VngcKdhKhu8) - CareerFoundry (15 min)
+- [How to Create Personas](https://www.youtube.com/watch?v=GNvLpfXCge8) - Sarah Doody (20 min)
+- [Usability Heuristics](https://www.youtube.com/watch?v=6Bw0n6Jvwxk) - NNGroup (10 min)
+
+### **Semanas 9-12: Backend + Product**
+**Node.js/Backend:**
+- [Node.js Crash Course](https://www.youtube.com/watch?v=fBNz5xF-Kx4) - Traversy Media (1.5 horas)
+- [REST API Design Best Practices](https://www.youtube.com/watch?v=1nHsnz_lMxk) - Web Dev Simplified (20 min)
+- [MongoDB in 100 Seconds](https://www.youtube.com/watch?v=-bt_y4Loofg) - Fireship (2 min)
+
+**Product Management:**
+- [What do Product Managers Do?](https://www.youtube.com/watch?v=yUOC-Y0f5ZQ) - Exponent (15 min)
+- [User Story Mapping](https://www.youtube.com/watch?v=k_5s-PPy5YE) - Atlassian (5 min)
+
+**Figma para Developers:**
+- [Figma to Code](https://www.youtube.com/watch?v=B242nuM3y2s) - DesignCourse (25 min)
+- [Design Tokens](https://www.youtube.com/watch?v=MBxZtYmqAYI) - Figma (15 min)
+- [Handoff to Developers](https://www.youtube.com/watch?v=B_4NxL4zS1w) - CharliMarieTV (20 min)
+
+**UX Strategy:**
+- [Jobs to be Done](https://www.youtube.com/watch?v=Stc0beAxavY) - UX Salon (30 min)
+- [Service Design](https://www.youtube.com/watch?v=_Z1ktxZws1A) - AJ&Smart (20 min)
+- [UX Metrics](https://www.youtube.com/watch?v=1qjFJ8OXazE) - NNGroup (15 min)
+
+### **Semanas 13-16: Proyecto Completo**
+**Arquitectura/Deployment:**
+- [Deploy Node.js App](https://www.youtube.com/watch?v=l134cBAJCuc) - Traversy Media (20 min)
+- [Environment Variables](https://www.youtube.com/watch?v=17UVejOw3zA) - Web Dev Simplified (15 min)
+- [JWT Authentication](https://www.youtube.com/watch?v=mbsmsi7l3r4) - Web Dev Simplified (30 min)
+
+**Soft Skills:**
+- [Client Communication](https://www.youtube.com/watch?v=xJCB8grnHlU) - The Futur (45 min)
+- [Dealing with Difficult Clients](https://www.youtube.com/watch?v=z8jJ8e75Sik) - The Futur (40 min)
+
+**Figma Collaboration:**
+- [Figma Branching](https://www.youtube.com/watch?v=StJnVhZFdnM) - Figma (15 min)
+- [Design Review](https://www.youtube.com/watch?v=7QXpwYvjH9s) - Figma (10 min)
+- [Version History](https://www.youtube.com/watch?v=hTz_1dmLGj0) - Figma (8 min)
+
+**UX Documentation:**
+- [Design Documentation](https://www.youtube.com/watch?v=RYDsHPP4qLY) - Anfisa Bogomolova (25 min)
+- [Case Study Creation](https://www.youtube.com/watch?v=TdF4VEGBTxE) - The Futur (30 min)
+- [Presenting Design Work](https://www.youtube.com/watch?v=Ml4QlZwQqpQ) - Mike Locke (20 min)
+
+### **Semanas 17-20: React**
+**React Específico:**
+- [React in 100 Seconds](https://www.youtube.com/watch?v=Tn6-PIqc4UM) - Fireship (2 min)
+- [React Hooks Explained](https://www.youtube.com/watch?v=TNhaISOUy6Q) - Fireship (13 min)
+- [React State Management](https://www.youtube.com/watch?v=zpUMRsAO6-Y) - Web Dev Simplified (20 min)
+
+**Integración IA:**
+- [OpenAI API Tutorial](https://www.youtube.com/watch?v=uRQH2CFvedY) - Fireship (10 min)
+- [Building AI Apps](https://www.youtube.com/watch?v=_UVfwBqcnbM) - Traversy Media (30 min)
+
+**Figma + React:**
+- [Figma to React](https://www.youtube.com/watch?v=4Q3t8bqOqzU) - DesignCourse (30 min)
+- [Design System to Code](https://www.youtube.com/watch?v=JGYf0d7aJjg) - Figma (20 min)
+- [Storybook + Figma](https://www.youtube.com/watch?v=nKfmIRZDj-4) - Storybook (25 min)
+
+**UX para Apps:**
+- [Mobile UX Design](https://www.youtube.com/watch?v=tIxJjDjNLDQ) - DesignCourse (25 min)
+- [Micro-interactions](https://www.youtube.com/watch?v=XEHgzWquWS8) - The Futur (15 min)
+- [Loading States](https://www.youtube.com/watch?v=4QHx4tW3vbU) - NNGroup (10 min)
+
+### **Semanas 21-24: Freelance + Portfolio**
+**Business/Marketing:**
+- [Building Your Portfolio](https://www.youtube.com/watch?v=g3tJGNd5uGI) - DesignCourse (25 min)
+- [Getting Your First Client](https://www.youtube.com/watch?v=15pGU3qkbZE) - The Futur (1 hora)
+- [Freelance Contracts](https://www.youtube.com/watch?v=jE53O1PzmNU) - The Futur (30 min)
+
+**Optimización:**
+- [Web Performance](https://www.youtube.com/watch?v=0fONene3OIA) - Google Chrome Developers (40 min)
+- [SEO for Developers](https://www.youtube.com/watch?v=JSm4aQl4w_U) - Traversy Media (20 min)
+
+**Portfolio en Figma:**
+- [Portfolio Presentation](https://www.youtube.com/watch?v=vr0Hzbv7BcY) - Figma (20 min)
+- [Mockup Creation](https://www.youtube.com/watch?v=QrTNpzKMDY8) - DesignCourse (15 min)
+- [Figma Slides](https://www.youtube.com/watch?v=8rd_MJBjTvQ) - Figma (12 min)
+
+**UX Portfolio:**
+- [UX Case Studies](https://www.youtube.com/watch?v=2Y7PwfrqG0k) - Sarah Doody (30 min)
+- [Portfolio Storytelling](https://www.youtube.com/watch?v=1rJmCmQX1Y8) - The Futur (25 min)
+- [Before & After Designs](https://www.youtube.com/watch?v=wQQmIj5XquM) - AJ&Smart (20 min)
+
+### **Videos "Break Glass in Case of Emergency":**
+- [Impostor Syndrome](https://www.youtube.com/watch?v=ZQUxL4Jm1Lo) - Mayuko (10 min)
+- [Burnout Recovery](https://www.youtube.com/watch?v=WGx0Qv19uzQ) - Healthy Software Developer (15 min)
+- [When to Say No](https://www.youtube.com/watch?v=Th3OQKj7pKo) - The Futur (30 min)
 
 ---
 
@@ -33,7 +204,7 @@ En 6 meses serás capaz de:
 ### Herramientas de Desarrollo
 - **IDE**: [Cursor](https://cursor.sh/) o [VS Code](https://code.visualstudio.com/)
 - **Control de Versiones**: [Git](https://git-scm.com/) + [GitHub](https://github.com/)
-- **Hosting**: [Vercel](https://vercel.com/) o [Railway](https://railway.app/)
+- **Hosting**: [Render](https://render.com/) o [Vercel](https://vercel.com/)
 - **Base de Datos**: [MongoDB Atlas](https://www.mongodb.com/atlas)
 
 ### Herramientas de IA
@@ -135,10 +306,33 @@ Construir bases sólidas en desarrollo web y diseño UX. Al final podrás crear 
   - HTML Foundations
   - CSS Foundations (intro)
 
-#### Tardes: Figma Fundamentals
-- **Tutoriales oficiales**: [Figma YouTube](https://www.youtube.com/c/Figmadesign)
-- **Práctica diaria**: Recrear una app conocida
-- **Entregable**: Diseño de tu web personal
+#### Tardes: Figma Fundamentals + UX Research Basics
+
+**Figma Video Curriculum (Ver en orden):**
+
+**Semana 1 - Básicos:**
+1. [Figma for Beginners Playlist](https://www.youtube.com/playlist?list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4) (4 videos, ~1 hora)
+   - Getting Started
+   - Vector Networks
+   - Components
+   - Prototyping
+2. [Auto Layout](https://www.youtube.com/watch?v=PNJxeD29ZTg) (10 min - ESENCIAL)
+3. [Components & Variants](https://www.youtube.com/watch?v=y29Xwt9dET0) (15 min)
+
+**Semana 2 - Aplicación:**
+4. [Design a Mobile App](https://www.youtube.com/watch?v=PeGfX7W1mJk) (20 min - Follow along)
+5. [Figma Tips Playlist](https://www.youtube.com/playlist?list=PLXDU_eVOJTx5LSjOmeBqMDtpNA6TXULxP) (Elegir 3-4 videos)
+6. [Dev Mode](https://www.youtube.com/watch?v=oGNTt0V0LVc) (10 min)
+
+**Práctica diaria**: Recrear una app conocida
+**Entregable**: Diseño de tu web personal
+
+#### UX Research Mini-Track - Semana 2
+- **Fundamentos UX** (2 horas):
+  - Video: [What is UX Design?](https://www.youtube.com/watch?v=Ovj4hFxko7c) - Google Career Certificates
+  - Video: [UX Crash Course](https://www.youtube.com/playlist?list=PLYfCBK8IplO6v0QjCj-TSrFUXnRV0WxfE) - The Futur
+  - Lectura: [UX Design 101](https://www.nngroup.com/articles/definition-user-experience/) - Nielsen Norman Group
+- **Práctica**: 3 entrevistas informales sobre un problema cotidiano usando las preguntas de "The Mom Test"
 
 #### Proyecto Semana 2: Web Personal
 ```
@@ -152,10 +346,26 @@ portfolio/
 
 ### Semana 3-4: CSS Avanzado y JavaScript
 
+#### Tardes: Diseño de Interfaces
+
+**Figma - Semana 3-4 (Avanzado):**
+- [Design Systems](https://www.youtube.com/watch?v=EK-pHkc5EL4) (15 min)
+- [Prototyping](https://www.youtube.com/watch?v=X5qiBwqptek) - Para proyectos interactivos
+- [Smart Animate](https://www.youtube.com/watch?v=6HKg_itYMZc) - Transiciones suaves
+- Buscar: "Figma landing page tutorial" para tu proyecto
+
 #### Conceptos Clave
 - **Flexbox**: Para layouts unidimensionales
 - **Grid**: Para layouts bidimensionales  
 - **JavaScript**: Variables, funciones, condicionales, loops
+
+#### UX Research Mini-Track - Semana 3
+- **User Research Methods** (3 horas):
+  - Video: [How to Conduct User Interviews](https://www.youtube.com/watch?v=Hx8AMTh1DW8) - AJ&Smart
+  - Video: [User Research Methods](https://www.youtube.com/watch?v=gGZGDnTY454) - Mike Locke
+  - Template: [Interview Script Template](https://www.nngroup.com/articles/user-interview-questions/)
+- **Práctica**: 5 entrevistas reales para tu proyecto Landing Page
+- **Síntesis**: Identificar 3 patrones principales de las entrevistas
 
 #### Proyecto Semana 4: Landing Page Profesional
 - Cliente: Negocio real (familiar/amigo)
@@ -163,6 +373,21 @@ portfolio/
 - Deploy: GitHub Pages
 
 ### Semana 5-8: JavaScript Interactivo
+
+#### UX Research Mini-Track - Semana 4
+- **Personas y Journey Maps** (3 horas):
+  - Video: [How to Create User Personas](https://www.youtube.com/watch?v=XnG4c4gXaQY) - The Futur
+  - Video: [Customer Journey Mapping](https://www.youtube.com/watch?v=mSxpVRo3BLg) - NNGroup
+  - Template: [Miro Persona Template](https://miro.com/templates/personas/)
+  - Template: [Journey Map Template](https://www.nngroup.com/articles/journey-mapping-101/)
+- **Entregable**: 1 User Persona + 1 Journey Map basados en tu research
+
+#### UX Research Mini-Track - Semana 5-6
+- **Usability Testing** (2 horas):
+  - Video: [Usability Testing 101](https://www.youtube.com/watch?v=BrVnBdW6_rE) - NNGroup
+  - Video: [Guerrilla Testing](https://www.youtube.com/watch?v=0YL0xoSmyZI) - AJ&Smart
+  - Lectura: [Running a Usability Test](https://www.usability.gov/how-to-and-tools/methods/running-usability-tests.html)
+- **Práctica**: Test tu Etch-a-Sketch con 3 usuarios, documentar findings
 
 #### Proyectos Principales
 
