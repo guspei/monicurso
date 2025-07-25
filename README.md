@@ -1,6 +1,6 @@
 # Plan de Estudio: Full-Stack Product Builder (6 meses)
 
-## 📋 Resumen del Curso
+## 📋 Resumen del Curso!
 
 **Objetivo**: Formar un perfil híbrido capaz de diseñar UX con IA, entender necesidades de producto como Product Owner, y construir MVPs funcionales con Node.js. En 6 meses de trabajo intensivo, el estudiante podrá trabajar como freelancer junior en Europa y América.
 
